@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Discord moderation application",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meokyou/discord-bot-js.git"
+  },
+  "author": "meokyou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meokyou/discord-bot-js/issues"
+  },
+  "homepage": "https://github.com/meokyou/discord-bot-js#readme"
+}
