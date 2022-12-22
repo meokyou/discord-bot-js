@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "prompt-sync": "^4.2.0"
   },
   "name": "bot",
   "version": "1.0.0",
