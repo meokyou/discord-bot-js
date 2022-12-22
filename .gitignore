@@ -105,3 +105,7 @@ dist
 
 # Sensitive JSON file
 config.json
+
+# Replit files
+.replit
+replit.nix
